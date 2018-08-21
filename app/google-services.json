@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "496419691681",
+    "firebase_url": "https://evan-loeurn-29821.firebaseio.com",
+    "project_id": "evan-loeurn-29821",
+    "storage_bucket": "evan-loeurn-29821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496419691681:android:3c04d044309af99b",
+        "android_client_info": {
+          "package_name": "com.example.meng.myapplication7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496419691681-jtiim6a6k8j11hggr6rtiq2vt795mbdl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meng.myapplication7",
+            "certificate_hash": "3664182a0705e2287767bde7c6ce5ed769a68d7e"
+          }
+        },
+        {
+          "client_id": "496419691681-7s52htg0qsl3rjtjeo7r773vingsb25r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNnIdOuDt5eJsvio_nmdk-69jkvKV9jnQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496419691681-7s52htg0qsl3rjtjeo7r773vingsb25r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
